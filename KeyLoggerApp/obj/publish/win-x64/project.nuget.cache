@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SxpFH3Yrk0OAU5sB049Pss3xLvU1P+V4RMdp+hQQlpDIVr/gWnL0/F4qFGcq81DYlSzUUwCo5hqIY+j9d6OkFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\antre\\Desktop\\Ynov\\LaboSSI\\KeyLoggerApp\\KeyLoggerApp\\KeyLoggerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\antre\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\antre\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512"
+  ],
+  "logs": []
+}

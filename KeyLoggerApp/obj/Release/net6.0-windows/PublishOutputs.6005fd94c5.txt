@@ -1,0 +1,5 @@
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\Gestionnaire des tâches.exe
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\Gestionnaire des tâches.dll
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\Gestionnaire des tâches.deps.json
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\Gestionnaire des tâches.runtimeconfig.json
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\Gestionnaire des tâches.pdb

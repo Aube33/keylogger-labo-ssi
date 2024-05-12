@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>microsoft.taskmanager</id>
+    <version>1.0.0</version>
+    <authors>microsoft.taskmanager</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/icon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\microsoft.taskmanager.runtimeconfig.json" target="lib\net6.0-windows7.0\microsoft.taskmanager.runtimeconfig.json" />
+    <file src="C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\microsoft.taskmanager.dll" target="lib\net6.0-windows7.0\microsoft.taskmanager.dll" />
+    <file src="C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\icon.ico" target="content\icon.ico" />
+    <file src="C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\icon.ico" target="contentFiles\any\net6.0-windows7.0\icon.ico" />
+  </files>
+</package>

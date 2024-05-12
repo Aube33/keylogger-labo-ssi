@@ -1,0 +1,17 @@
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.Form1.resources
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\VotreApplication.Program.resources
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.csproj.GenerateResource.cache
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.AssemblyInfoInputs.cache
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.AssemblyInfo.cs
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\KeyLoggerApp.genruntimeconfig.cache
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\Gestionnaire des tâches.exe
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\Gestionnaire des tâches.deps.json
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\Gestionnaire des tâches.runtimeconfig.json
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\Gestionnaire des tâches.dll
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\Gestionnaire des tâches.pdb
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\Gestionnaire des tâches.dll
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\refint\Gestionnaire des tâches.dll
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\Gestionnaire des tâches.pdb
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\obj\Release\net6.0-windows\ref\Gestionnaire des tâches.dll

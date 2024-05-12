@@ -1,0 +1,2 @@
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\win-x64\Gestionnaire des tâches.pdb
+C:\Users\antre\Desktop\Ynov\LaboSSI\KeyLoggerApp\KeyLoggerApp\bin\Release\net6.0-windows\publish\win-x64\Gestionnaire des tâches.exe
