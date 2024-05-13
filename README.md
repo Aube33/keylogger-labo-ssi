@@ -14,6 +14,8 @@ To set up the use of the malware, follow these steps:
 
 
 ## Webhook url
+Référez-vous à cette url
+https://support.discord.com/hc/fr/articles/228383668-Introduction-aux-Webhooks
 
 
 ## DuckyScript source:
